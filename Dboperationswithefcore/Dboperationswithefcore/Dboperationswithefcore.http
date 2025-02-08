@@ -1,0 +1,6 @@
+@Dboperationswithefcore_HostAddress = http://localhost:5047
+
+GET {{Dboperationswithefcore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
